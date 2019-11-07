@@ -1,0 +1,6 @@
+c:\users\home\документы\visual studio 2013\Projects\ML\ML\bin\Debug\ML.exe.config
+C:\Users\Home\Документы\Visual Studio 2013\Projects\ML\ML\bin\Debug\ML.exe
+C:\Users\Home\Документы\Visual Studio 2013\Projects\ML\ML\bin\Debug\ML.pdb
+C:\Users\Home\Документы\Visual Studio 2013\Projects\ML\ML\obj\Debug\ML.csprojResolveAssemblyReference.cache
+C:\Users\Home\Документы\Visual Studio 2013\Projects\ML\ML\obj\Debug\ML.exe
+C:\Users\Home\Документы\Visual Studio 2013\Projects\ML\ML\obj\Debug\ML.pdb
